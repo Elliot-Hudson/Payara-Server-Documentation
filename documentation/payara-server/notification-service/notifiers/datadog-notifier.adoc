@@ -1,3 +1,7 @@
+---
+description: "Information about Datadog Notifier since Payara server 4.1.2.172. Including Intergration, configuration and troubleshooting."
+---
+
 [[slack-notifier]]
 = Datadog Notifier
 
