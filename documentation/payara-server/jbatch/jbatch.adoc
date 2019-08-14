@@ -1,3 +1,7 @@
+---
+description: "JBatch enhancements since Payara Server 4.1.1.162."
+---
+
 [[contents]]
 = JBatch Enhancements
 
