@@ -1,3 +1,7 @@
+---
+description: "Payara Server schemas for Payara platform"
+---
+
 [[payara-schemas]]
 = Payara Schemas
 
