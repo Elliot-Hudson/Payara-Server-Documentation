@@ -1,3 +1,7 @@
+---
+description: "Payara notification logging service since version 4.1.2.181."
+---
+
 [[notification-logging]]
 = Notification Logging Service
 
