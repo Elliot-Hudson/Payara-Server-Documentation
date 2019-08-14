@@ -1,3 +1,7 @@
+---
+description: "Information on contributing to Payara."
+---
+
 [[contributing-to-payara]]
 = Contributing to Payara
 
