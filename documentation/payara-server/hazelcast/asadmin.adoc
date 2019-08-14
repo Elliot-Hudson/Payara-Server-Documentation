@@ -1,3 +1,7 @@
+---
+description: "A list of the administration commands used to configure Hazelcast."
+---
+
 [[asadmin-commands]]
 = Asadmin Commands
 
