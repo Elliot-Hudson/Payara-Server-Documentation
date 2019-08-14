@@ -1,3 +1,7 @@
+---
+description: "XMPP Notifier. Server configuration, requirements and troubleshooting"
+---
+
 [[xmpp-notifier]]
 = XMPP Notifier
 
