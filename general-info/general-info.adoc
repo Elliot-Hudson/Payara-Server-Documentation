@@ -1,3 +1,7 @@
+---
+description: "A document overview which provides information about the Payara Project, including release strategy, naming strategy, work strategy, GitHub info and Documentation."
+---
+
 [[overview]]
 = Documentation Overview
 
