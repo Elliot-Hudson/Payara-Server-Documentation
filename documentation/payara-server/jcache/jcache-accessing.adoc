@@ -1,3 +1,7 @@
+---
+description: "Accessing the caching provider and cache manager by using injection and JNDI."
+---
+
 [[accessing-the-caching-provider-and-cache-manager]]
 = Accessing the Caching Provider and Cache Manager
 
