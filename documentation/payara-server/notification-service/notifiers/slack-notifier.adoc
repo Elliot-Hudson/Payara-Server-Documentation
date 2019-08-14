@@ -1,3 +1,7 @@
+---
+description: "Information on Payara Server Slack Notifier, including configuration and troubleshooting."
+---
+
 [[slack-notifier]]
 = Slack Notifier
 
