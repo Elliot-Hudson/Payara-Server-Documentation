@@ -1,3 +1,7 @@
+---
+description: "Information about the Eclipse Microprofile JWT Authentication API since 4.1.2.181."
+---
+
 = Eclipse MicroProfile JWT Authentication API
 
 _Since *4.1.2.181*; *5.181*&nbsp;_
