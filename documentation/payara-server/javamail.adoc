@@ -1,5 +1,5 @@
 ---
-description: "Information and configuration of JavaMail."
+description: "Information about and configuration of JavaMail."
 ---
 
 [[javamail]]
