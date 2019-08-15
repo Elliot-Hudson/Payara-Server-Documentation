@@ -1,3 +1,7 @@
+---
+description: "Information and configuration of JavaMail."
+---
+
 [[javamail]]
 = JavaMail
 
