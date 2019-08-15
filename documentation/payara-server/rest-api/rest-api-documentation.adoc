@@ -1,3 +1,8 @@
+---
+description: "Information on the Payara Server REST API available
+for administration and monitoring Payara Server domains."
+---
+
 [[payara-server-rest-api-documentation]]
 = Payara Server REST API Documentation
 
