@@ -1,3 +1,7 @@
+---
+description: "Information about Virtual Servers and configuration."
+---
+
 # Virtual Servers
 
 A virtual server is an object that allows one physical server instance to appear
