@@ -1,3 +1,7 @@
+---
+description: "Default Thread Pool Size description Since Payara server 4.1.1.164."
+---
+
 [[default-thread-pool-size]]
 = Default Thread Pool Size
 
