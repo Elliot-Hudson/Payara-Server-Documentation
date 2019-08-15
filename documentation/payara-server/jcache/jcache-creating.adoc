@@ -1,3 +1,7 @@
+---
+description: "Information about creating a Cache Instance, including using injection, Typed cache injection and injecting a custom cache."
+---
+
 [[creating-a-cache-instance]]
 = Creating a Cache Instance
 
