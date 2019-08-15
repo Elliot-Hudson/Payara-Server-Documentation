@@ -1,3 +1,7 @@
+---
+description: "Introduction to accessing CDI Probe Rest API."
+---
+
 = Accessing CDI Probe REST API
 
 CDI Probe exposes REST API at the context root of the application suffixed by path `/weld-probe`, followed by path to the REST resource. 
