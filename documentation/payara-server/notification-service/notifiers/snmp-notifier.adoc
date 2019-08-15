@@ -1,5 +1,5 @@
 ---
-description: "Read about the Simple Network Management Protocol (SNMP), Including, SNMP Info, configuration and troubleshooting."
+description: "Simple Network Management Protocol (SNMP) Notifier, Including, SNMP Info, configuration and troubleshooting."
 ---
 
 [[snmp-notifier]]
