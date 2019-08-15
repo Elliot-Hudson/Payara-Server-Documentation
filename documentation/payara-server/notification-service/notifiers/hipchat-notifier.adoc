@@ -1,3 +1,7 @@
+---
+description: "Information on HipChat Notifier, since Payara Server 4.1.1.171. Including requirements, configuration and troubleshooting."
+---
+
 [[hipchat-notifier]]
 = HipChat Notifier
 
