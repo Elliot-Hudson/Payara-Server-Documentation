@@ -1,3 +1,7 @@
+---
+description: "Read about the Simple Network Management Protocol (SNMP), Including, SNMP Info, configuration and troubleshooting."
+---
+
 [[snmp-notifier]]
 = SNMP Notifier
 
